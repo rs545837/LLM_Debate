@@ -1,6 +1,7 @@
 # Changelog:
 
--  13/10/2024
+-   13/10/2024
+
   Approaches
   Single Solver, Critic, and Judge (Sequential Approach)
   
