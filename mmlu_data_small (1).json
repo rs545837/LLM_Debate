@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of Germany?",
+        "answer": "(B)",
+        "options": "(A) Rome, (B) Berlin, (C) Madrid, (D) Paris"
+    },
+    {
+        "question": "Who discovered the law of gravity?",
+        "answer": "(A)",
+        "options": "(A) Isaac Newton, (B) Albert Einstein, (C) Galileo Galilei, (D) Nikola Tesla"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "(A)",
+        "options": "(A) H2O, (B) O2, (C) CO2, (D) N2"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "(C)",
+        "options": "(A) Earth, (B) Venus, (C) Mars, (D) Jupiter"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "(B)",
+        "options": "(A) Vincent van Gogh, (B) Leonardo da Vinci, (C) Pablo Picasso, (D) Claude Monet"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "(B)",
+        "options": "(A) 90°C, (B) 100°C, (C) 80°C, (D) 110°C"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "answer": "(A)",
+        "options": "(A) George Washington, (B) Abraham Lincoln, (C) Thomas Jefferson, (D) John Adams"
+    },
+    {
+        "question": "Which country is known for inventing pizza?",
+        "answer": "(A)",
+        "options": "(A) Italy, (B) France, (C) Spain, (D) Greece"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "(D)",
+        "options": "(A) Mark Twain, (B) William Shakespeare, (C) Charles Dickens, (D) Jane Austen"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "answer": "(A)",
+        "options": "(A) Hydrogen, (B) Helium, (C) Oxygen, (D) Nitrogen"
+    }
+]
