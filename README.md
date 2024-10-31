@@ -1,6 +1,7 @@
 # Changelog:
 
 -   13/10/2024
+
   
   **Approaches**
   **Single Solver, Critic, and Judge (Sequential Approach)**
@@ -13,6 +14,8 @@
   **Multiple Solvers provide solutions.**
   **Critic reviews all solutions, and Solvers refine their answers based on feedback.**
   **Judge evaluates the final responses.**
+
+-   31/10/2024: Some improvements like issues of derailment
 
 ==============================================
 
